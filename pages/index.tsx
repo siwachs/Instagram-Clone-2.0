@@ -7,7 +7,7 @@ import Modal from "../Components/Modal";
 const Home: NextPage = () => {
   return (
     <div className="h-screen overflow-y-scroll bg-gray-50 scrollbar-hide">
-      <Head children={null}>
+      <Head>
         <title>Instagram Clone 2.0</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
